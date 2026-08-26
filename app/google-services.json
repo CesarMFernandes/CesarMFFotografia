@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595979615931",
+    "project_id": "cesarmffotografia",
+    "storage_bucket": "cesarmffotografia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595979615931:android:62ffccf7f97a554ce6f39e",
+        "android_client_info": {
+          "package_name": "com.cesarmf.cesarmfotografia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXY8HBNeyPNEzzBhdSeIvCOOHd6DZFcck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595979615931:android:91902ab4f457e208e6f39e",
+        "android_client_info": {
+          "package_name": "com.example.cesarmffotografia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXY8HBNeyPNEzzBhdSeIvCOOHd6DZFcck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
